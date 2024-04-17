@@ -1,7 +1,7 @@
 {
   "AD REQUEST MS": "60000",
   
-  "AFARIN TV": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
+  "AFARIN TV": "https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8",
   "ANIME TV": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
   "BATTERYPOP": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8",
   "EBS KIDS": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
