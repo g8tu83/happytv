@@ -1,5 +1,5 @@
 {
-  "AD REQUEST MS": "60000",
+  "AD REQUEST MS": "10000",
   
   "AFARIN TV": "https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8",
   "ANIME TV": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
